@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: AS_Hurley/badge-readme@main
+        uses: AS-Hurley/badge-readme@main
         with:       
-          CREDLY_USER: <AnamHurley_credly>
+          CREDLY_USER: <anamhurley@protonmail.com_credly>
