@@ -10,5 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: AS-Hurley/badge-readme@main
+        uses: pemtajo/badge-readme@main
+       
        
