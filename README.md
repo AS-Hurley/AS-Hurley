@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AS-Hurley
 - 🌱 I’m currently learning SQL
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
 
 
 
