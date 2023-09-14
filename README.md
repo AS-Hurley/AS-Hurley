@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AS-Hurley
 - 🌱 I’m currently learning SQL
+- 👀 I'm intersted in working with database management systems
 
 
 
