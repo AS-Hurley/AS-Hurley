@@ -4,7 +4,7 @@
 - 👀 I'm interested in working with database management systems
 
 
-![Badge] ![it-specialist-databases](https://github.com/AS-Hurley/School_Management_System/assets/144287374/4ddfca7a-db50-4090-b3e6-fa28c98aeafb)
+<img width="60" alt="it-specialist-databases" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/eb9a1b2a-47e0-4395-a71d-95aaee558a49">
 
 
 
