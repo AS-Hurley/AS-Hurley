@@ -4,7 +4,10 @@
 - 👀 I'm interested in working with database management systems
 
 
-<img width="60" alt="it-specialist-databases" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/eb9a1b2a-47e0-4395-a71d-95aaee558a49">
+
+
+
+<img width="300" alt="it-specialist-databases" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/040c5523-b89f-4ea1-a1a4-cc112c0b7083">
 
 
 
