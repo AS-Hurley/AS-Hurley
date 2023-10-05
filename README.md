@@ -7,7 +7,9 @@
 
 
 
-<img width="210" alt="it-specialist-databases" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/5f0a744f-01be-4da2-8f1e-277e9f4edc7e">
+
+
+<img width="150" alt="it-specialist-databases" src="https://github.com/AS-Hurley/School_Management_System/assets/144287374/231ea99f-aa7b-47a0-8974-161743d04e0a">
 
 
 
