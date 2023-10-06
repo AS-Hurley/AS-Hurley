@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AS-Hurley
 - 🌱 I’m currently learning SQL
-- 📕 I'm currently working towards Oracle Database SQL Certified Associate Certification 
 - 👀 I'm interested in working with database management systems
 
 
